@@ -1,0 +1,8 @@
+.card{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+}
+.name_common{
+    font-size: 20px;
+}
